@@ -7,5 +7,3 @@ a. scale, standard, precision, units.
 - standard is a grouping of all these ( todo )
 - precision is the container, a subcontainer, and global for example m1 m2
 - units relate to specific instances, or micro changes
-
-b. operations are likely void, since its voided and not important...
