@@ -1,1 +1,1 @@
-1. nothing needs to use these we just classify it via, the actual kinds are well totally different everywhere.
+1. implementations are diff these the core structures to use in the container ( you can also use the std/ref and just std/import std/export )
