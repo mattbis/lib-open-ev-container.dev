@@ -3,3 +3,4 @@
 2. bison or whatever is much faster. and other formats.. however they are more groupings of data.. 
 3. serialiser is either raw chunks with a lookup or just xml and json to ensure it always works
 4. xml and json work everywhere this is one aim i have.. however a binary version is needed... 
+5. oevcontfb is a place holder format for this.. that is a simple buffer.. 
