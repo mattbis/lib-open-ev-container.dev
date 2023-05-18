@@ -2,4 +2,4 @@
 2. 2/ will likely be the minimal version.
 
 a. the key parts are it must support exporting into the native or the terminology in the library standard here.. ( obviously this is bluesky so i have to improve it )
-b. implementing import or using hte manager to export to a common format.. ( sofaik no format exists that is generalised like this and to ensure human man hours are not wastedf ) 
+b. implementing import or using hte manager to export to a common format.. ( sofaik no format exists that is generalised like this and to ensure human-hours are not wastedf ) 
