@@ -1,6 +1,6 @@
 # lib-open-ev-container.dev
 ..
-1. abstracts
+1. abstracts - this container can contain just the export, the original src in a protected tier... and open/free section which can follow the standards symbols or infact just be buffer chunks unstructured,... Since its open the standard will also provide a consolidate function to restructure a high speed export 
 2. ..
 3. i keep mis conceptualising parts.. since its really hard to generalise.. this primary purpose is to ensure no man hours are wasted or lost in closed formats... 
 4. we are adding too much it will get consolidated some parts become parts of several groupings : `0` dev/beta `1` alpha `2` -- uses by third party
