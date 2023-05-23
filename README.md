@@ -3,7 +3,7 @@
 1. abstracts - this container can contain just the export, the original src in a protected tier... and open/free section which can follow the standards symbols or infact just be buffer chunks unstructured,... Since its open the standard will also provide a consolidate function to restructure a high speed export 
 2. the symbols and allowed types are extremely limited.X1 is likely only text strings are allowed... plus whatever the model is exporting...
 3. i keep mis conceptualising parts.. since its really hard to generalise.. this primary purpose is to ensure no man hours are wasted or lost in closed formats... 
-4. we are adding too much it will get consolidated some parts become parts of several groupings : `0` dev/beta `1` alpha `2` -- uses by third party
+4. we are adding too much it will get consolidated some parts become parts of several groupings : `A0` dev/beta `B1` alpha `C2` -- uses by third party release branch --stable
 5. the standard will have a proper name like  `loevcX1`
 6. implementing a schema of standard means `std/export` `std/import` and serial via `std/formats` `::=> xml,json,openevcontf,<insert>` 
 
