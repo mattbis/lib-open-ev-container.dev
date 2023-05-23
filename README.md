@@ -11,3 +11,7 @@ A. The standard is broader than most hosts will likely want to implement...
 B. Therefore you can make your own schema which is a subset of the standard and annotate where you are voiding something you dont want public.
 C. A valid export in the container has a Schema Section, a chunk section + plus if you implement thats it!
 D. the program must implement `std/export` to get accepted at a minimum.
+
+Notes
+A. This is not replacing your formats whatsoever.. its purpose is to ensure there is no gaming - it remains just this ....
+i. this work is too important to not be freed... or lost forever.. some of it might want to escape and this will enable a painless process.
