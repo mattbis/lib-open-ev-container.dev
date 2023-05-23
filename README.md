@@ -15,3 +15,4 @@ D. the program must implement `std/export` to get accepted at a minimum.
 Notes
 A. This is not replacing your formats whatsoever.. its purpose is to ensure there is no gaming - it remains just this ....
 i. this work is too important to not be freed... or lost forever.. some of it might want to escape and this will enable a painless process.
+ii. Further this opens a whole world of amazing possibilities - ie diffing what went wrong - what you deleted using standard tools that worked for decades! imagine the joy - no longer being tied to a stupid gui that isnt good enough.
