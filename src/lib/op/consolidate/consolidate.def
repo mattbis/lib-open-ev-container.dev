@@ -1,2 +1,9 @@
-For E<T> where common(Infinity) do 
-  FastMerge
+#If SRC.TIER
+#If SRC.TIER IsValid
+#If SRC.TIER CanSetRemainder
+#If USER AckOverride
+ # If SRC.MANIFEST CanConsolidateUnprotected
+#For E<T> where:
+# common(Infinity) 
+do 
+#  FastMerge
