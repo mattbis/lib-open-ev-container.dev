@@ -6,6 +6,8 @@ the main aim is to be a IL that then works with anything else but has the right 
 
 since the a topic is finite.. its reasonably easy to derive a common set of symbols and values... be it someting unique to the product, the topic, or broadly in the creative space... This is all we need to capture the sequence and linear and it can be the most minimal ( likely ) or enriched.
 
+the complexity aspect is nested objects we assume, and then how that is exported in a painless way by implemting the `std/export` however such serialisation is likely already existing.. and since this is liberal in that it just has to export the basic contents and structure... 
+
 ### todo
 1. the monikiers should be all unified to be based on tag: brand-channel since I can do some quite confusing structures without having this in place first...
 
