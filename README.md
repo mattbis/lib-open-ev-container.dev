@@ -1,5 +1,7 @@
 # lib-open-ev-container.dev
 ..
+the main aim is to be a IL that then works with anything else but has the right level of compromise since nobody wants to dedicate a chunk of their dev year on this topic.. instead it makes it really easy... and we work around the rest.. assuming we have enough structure to go on.. or it works really well who knows.. This i think is a sensible initial thought path..
+
 1. abstracts - this container can contain just the export, the original src in a protected tier... and open/free section which can follow the standards symbols or infact just be buffer chunks unstructured,... Since its open the standard will also provide a consolidate function to restructure a high speed export 
 2. the symbols and allowed types are extremely limited.X1 is likely only text strings are allowed... plus whatever the model is exporting...
 3. i keep mis conceptualising parts.. since its really hard to generalise.. this primary purpose is to ensure no man hours are wasted or lost in closed formats... 
