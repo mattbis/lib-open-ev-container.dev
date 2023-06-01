@@ -4,6 +4,8 @@
 ## summary
 the main aim is to be a IL that then works with anything else but has the right level of compromise since nobody wants to dedicate a chunk of their dev year on this topic.. instead it makes it really easy... and we work around the rest.. assuming we have enough structure to go on.. or it works really well who knows.. This i think is a sensible initial thought path..
 
+since the a topic is finite.. its reasonably easy to derive a common set of symbols and values... be it someting unique to the product, the topic, or broadly in the creative space... This is all we need to capture the sequence and linear and it can be the most minimal ( likely ) or enriched.
+
 ### todo
 1. the monikiers should be all unified to be based on tag: brand-channel since I can do some quite confusing structures without having this in place first...
 
