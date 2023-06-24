@@ -1,0 +1,1 @@
+1. one cool possibility is you can use the same for anyting else so long as it has abstract syms and refs... and the min...  ( it will just replace whatever with the symbols and at least you get this with the next generic object prop type (todo))
