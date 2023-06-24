@@ -1,6 +1,10 @@
 # lib-open-ev-container.dev
 ..
 
+still adding too much and then we will think about it... and sort out the dir structure... since the topic is so vast,.. i have to slowly think aboiut it... 
+
+
+
 ## summary
 the main aim is IL that then works with anything else but has the right level of compromise since nobody wants to dedicate a chunk of their dev year on this topic.. instead it makes it really easy... and we work around the rest.. assuming we have enough structure to go on.. or it works really well who knows.. This i think is a sensible initial thought path..
 
