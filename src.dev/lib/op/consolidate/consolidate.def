@@ -7,3 +7,6 @@
 # common(Infinity) 
 do 
 #  FastMerge
+ # do remove globals to local tier path
+ # do remove unused chunks 
+ # do remove unused refs
