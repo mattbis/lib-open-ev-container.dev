@@ -1,1 +1,8 @@
+## modes can be combined or alias others
 
+fast # monikier for incremental + checksum
+slow # the container is an exact new representation and replaces itself
+incremental # the container is buffering updates
+parity # the container is self repairing
+checksum # all paths are checksumed
+exportable # exportable containers have more config blocks
