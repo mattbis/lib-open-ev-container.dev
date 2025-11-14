@@ -1,1 +1,3 @@
+- a mandate is a type of implementation level ... `std/export` is the the most turtle state. ==> 0
 
+- library includes implement operations or the full library into teh build.... 
