@@ -1,1 +1,4 @@
+[test-manager]
 
+src = %current_release
+dst = var/test/run
