@@ -1,5 +1,8 @@
 # lib-open-ev-container.dev
 ..
+
+all daws should use one project format... 
+
 ## todo
 1. the monikiers should be all unified to be based on tag: brand-channel.
 2. there is a ton of work here ... I need to spend an entire week on this at some point... 
