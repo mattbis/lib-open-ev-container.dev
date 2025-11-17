@@ -12,3 +12,5 @@ a. scale, standard, precision, units.
 the reason for this is making a fast save over a complete save with all data expected by the container should it implement and IL that you already generated and extended from the base language. In this scenario you could change the precision of the buffer data type symbols ... and how big your juicy numbers are.
 
 b. the library doesnt know you own IL: but it can export this into a general format. 
+
+c. tiers allow a proejct to have inner par revisions and linking common data... ( TODO: this would allow one project ot have its own complete history ) 
