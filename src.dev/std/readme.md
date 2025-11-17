@@ -19,4 +19,4 @@ d. drm or vendor info is discouraged but is just another protected tier
 
 #### examples
 
-- mod metadata of author to the container and set software, create a free tier, and serialise a buffer into the internal buffer format.. 
+- mod metadata of author to the container and set software, create a free tier, and serialise a buffer into the internal buffer format.. using the standard IL symbol langauge
