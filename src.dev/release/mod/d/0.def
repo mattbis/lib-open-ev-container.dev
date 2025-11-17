@@ -1,1 +1,2 @@
 # each release combines changes in a strict manner... no code is included in .main as a, b, c without manifest
+# any difference in the api is either backwards - or forwards included..  ( this way nothing will ever go wrong ) 
