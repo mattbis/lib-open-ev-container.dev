@@ -1,6 +1,1 @@
-currently confusing since this is both how the standard works and how its released; and well everything so it needs a really better structure.. might have to break some rules.. since there isnt one `src` really... many
 
-also `res` is kinda like a repo lib that has stuff that shuold work around releases but is tied to them... 
-( although in theory this shoudl never stop working once it is X1 since the entire idea is it its just this.. 
-
-and the subversions will be the chore() and ting of change... 
