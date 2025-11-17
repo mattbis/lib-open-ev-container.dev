@@ -3,3 +3,5 @@
 # make all assets replicable
 # generator config in open format
 # effect config in open format
+# sequence in open format
+# compound custom in open format
