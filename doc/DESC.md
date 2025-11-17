@@ -5,3 +5,8 @@
 # effect config in open format
 # sequence in open format
 # compound custom in open format
+- ports
+- routes
+- events
+- control
+- audio
