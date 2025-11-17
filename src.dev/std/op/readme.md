@@ -43,7 +43,7 @@
 #### sfixed
 - sets a fixed sized buffer for arbitrary data
 #### sign
-- signs a data buffer, for checksum, optional
+- signs a data buffer, for checksum, **automatic** all writes are checksummed
 #### stest
 - sets a test that the container must perform this is not transmutable to other hosts
 #### stier
