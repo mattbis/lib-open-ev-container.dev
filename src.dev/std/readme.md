@@ -14,3 +14,5 @@ the reason for this is making a fast save over a complete save with all data exp
 b. the library doesnt know you own IL: but it can export this into a general format. 
 
 c. tiers allow a proejct to have inner par revisions and linking common data... ( TODO: this would allow one project ot have its own complete history ) 
+
+d. drm or vendor info is discouraged but is just another protected tier
