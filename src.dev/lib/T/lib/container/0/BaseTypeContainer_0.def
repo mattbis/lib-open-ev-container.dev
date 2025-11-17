@@ -1,2 +1,11 @@
 [BaseTypeContainer]
-precision = 128
+flot_precision = 128
+architecture = 64
+
+[Leaf]
+left
+right
+parent
+sibling
+child
+
