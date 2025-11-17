@@ -1,4 +1,6 @@
 # std:op
+## note most of these operations are completely uneessary for a host.. and are included only for the library tool
+
 ## container library operations
 - todo(matt): move into lib/op
 #### calc
