@@ -29,6 +29,8 @@
 - query paths
 #### qbuf
 - get all buffers
+#### qrate
+- a container creates a hierachy on the quality of its data... and whether the save was fast or complete with all data required **to gurantee it can be reproduced**
 #### ...
 #### repair
 - check inner consistency and data stored within buffers
