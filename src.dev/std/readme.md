@@ -8,3 +8,5 @@
 a. scale, standard, precision, units. 
 - standard is a grouping of all these ( todo )
 - precision is the container, a subcontainer, and global for example m1 m2
+
+the reason for this is making a fast save over a complete save with all data expected by the container should it implement and IL that you already generated and extended from the base language. In this scenario you could change the precision of the buffer data type symbols ... and how big your juicy numbers are.
