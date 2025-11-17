@@ -16,3 +16,7 @@ b. the library doesnt know you own IL: but it can export this into a general for
 c. tiers allow a proejct to have inner par revisions and linking common data... ( TODO: this would allow one project ot have its own complete history ) 
 
 d. drm or vendor info is discouraged but is just another protected tier
+
+#### examples
+
+- mod metadata of author to the container and set software, create a free tier, and serialise a buffer into the internal buffer format.. 
