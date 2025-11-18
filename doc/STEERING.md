@@ -1,0 +1,1 @@
+- compression with lzma2 is an option but out of scope
