@@ -1,0 +1,1 @@
+# a full save will also want to have an interface where it can request a canonical-ident that matche a sub asset type ( for example a plugin ) and the the inner vendor representation and a more global fxp one... TODO(matt): this is some stuff I didnt think about the first iteration.
