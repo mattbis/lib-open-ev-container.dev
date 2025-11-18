@@ -6,3 +6,4 @@ incremental # the container is buffering updates
 parity # the container is self repairing
 checksum # all paths are checksumed
 exportable # exportable containers have more config blocks
+custom-il # has extensions to the symbol language ( this lookup is embedded into the container since its entire purpose is to ensure a project can never be lost )
