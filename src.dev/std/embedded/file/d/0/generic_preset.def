@@ -1,0 +1,2 @@
+[]
+# extends the abstract and allows only certain types of usually binary data files, that have a header, or a string component.. ( this varies wildly )
