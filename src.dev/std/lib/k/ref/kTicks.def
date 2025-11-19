@@ -1,1 +1,8 @@
-
+[kTicks]
+microtime
+time
+datetime
+cadence
+signature
+duration
+segment
