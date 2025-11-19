@@ -1,1 +1,4 @@
-
+[config]
+version = 0
+[includes]
+.. default std 
