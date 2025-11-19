@@ -21,3 +21,4 @@ d. drm or vendor info is discouraged but is just another protected tier
 
 - mod metadata of author to the container and set software, create a free tier, and serialise a buffer into the internal buffer format.. using the standard IL symbol langauge
 - do the same but use structured data ( xml, json ... )  and string format
+- compare paths of the free and open tier to merge inner parts into another frakenstein project
