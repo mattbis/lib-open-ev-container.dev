@@ -1,7 +1,7 @@
 # lib-open-ev-container.dev
 ..
 
-all fast exporting structured data of complexity like a daw,  should use one project format... 
+all fast exporting structured data of complexity like a daw,  should use one project format... its too easy to loose the entire project and not enforce standards such as common interchange formats..
 
 or this will be useful for any kind of data serialisation, that requires a structure, and export
 
