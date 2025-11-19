@@ -1,0 +1,3 @@
+/** 
+  implement a flexible structure, that allows any implemneting host to not change how their serialiser works... Any addition to the container is a marker of this... 
+*/
