@@ -10,4 +10,13 @@
   a buffer can also be deep embedded paths with huge data...
 
   the container uses the tree to create tiers of a project at any branch...  these are merged or protected ( discouraged ) ... a common upper tree layer contains the paths for common paths so sub tree branch searching is reduced... 
+
+  to avoid complexity a canon can be streamed... and these dimensions contain tiers asa  virtual fs... ( Phase only C2 )
+  C2: lzma2
+
+  - the container allows the project tree to essentially parity itself binarily...
+  -- the container allows constituents to reproduce an entire project
+
+
+  the tree structure allows some flexibility to share common paths ... [TODO: ( matt ) tradeoff ) 
 */
