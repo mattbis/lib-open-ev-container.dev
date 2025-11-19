@@ -7,6 +7,7 @@
 - any point of this container data, can be historically referenced.
 - the container allows the conversion of inner data formats ( if they are complete assets, or presets etc ) into other formats....
 - a container probably will be just teh last save... but it can be combined with other containers int eh same format as a set operation etc
+- data is then if converted readable and diff (able)
 ### why should i bother
 - by default its fast, you can do this as another export option
 - all music must be saved and interchangeable...
