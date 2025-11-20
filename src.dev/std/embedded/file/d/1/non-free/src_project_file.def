@@ -1,0 +1,6 @@
+[embedded/file/d/1/non-free/src_project_file]
+
+must = 1
+
+# this is a feature to allow the container to have a origin source file embedded, it can only be in a protected tier or a non-free tier.
+# however it has to be readable, a protected readable file is classed as non-free and is just a link.. since it cant be protected if its readable but this is for convenience since it means the format is not open and binary probably and we dont support until much later any kind of understanding of this data to compare against the open/free tiers... 
