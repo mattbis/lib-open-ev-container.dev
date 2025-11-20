@@ -1,0 +1,1 @@
+### this format is a place holder for `res` \formats\ ( or probably lib\static from other libraries... as an option. The container does not enforce any kind of rules or preference on formats.. just that there is something to rescue
